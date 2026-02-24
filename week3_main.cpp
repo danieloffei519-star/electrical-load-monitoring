@@ -1,7 +1,7 @@
 /*
  * ELECTRICAL LOAD MONITORING SYSTEM
- * Author: LOVE FOBI
- * Index: 01240239D
+ * Author: DANIEL OFFEI DODOO
+ * Index: 01240058D
  * Course: EEE 227
  * Week 3: Billing Calculation Added
  * Date: February 15, 2026
