@@ -2,8 +2,8 @@
                  BILLING SUMMARY
 =========================================================
 Date: Tue Feb 24 15:46:55 2026
-Author: [FRIEND'S NAME]
-Index: [FRIEND'S INDEX]
+Author: DANIEL OFFEI DODOO
+Index: 01240058D
 Course: EEE 227
 ---------------------------------------------------------
 Tariff: GHS 0.50 per kWh
